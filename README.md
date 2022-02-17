@@ -1,6 +1,6 @@
 ### Hello, I'm Arpit Sharma 👋
 
-- 🔭 I’m currently working as a Recruiter with IRIS Software
+- 🔭 I’m currently working as a Senior Recruiter with Epsilon
 - 🌱 I’m currently learning more of Recruitement everyday
 - 👯 I’m looking to collaborate on any social platform for technology hiring
 - 🤔 I’m looking for help with good developer/ engineer/ programmer
