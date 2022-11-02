@@ -1,6 +1,6 @@
 ### Hello, I'm Arpit Sharma 👋
 
-- 🔭 I’m currently working as a Senior Tech Recruiter at Amazon
+- 🔭 I’m currently working as a Senior Tech Recruiter at Amazon 
 - 🌱 I’m currently learning more of Recruitement everyday
 - 👯 I’m looking to collaborate on any social platform for technology hiring
 - 🤔 I’m looking to help good developer/ engineer/ programmer to get their dream job
